@@ -9,6 +9,7 @@ class Song
   def initialize(genre)
     @genre = genre
   end
+end
   
   
   

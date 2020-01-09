@@ -32,7 +32,7 @@ def initialize(count)
   end
 end
 
-
+Song.artist_count
 
 
 

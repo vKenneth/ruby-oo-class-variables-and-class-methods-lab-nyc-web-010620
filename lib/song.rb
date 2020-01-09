@@ -12,6 +12,9 @@ class Song
 end
 
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z" "rap")
+thriller = Song.new("Thriller", "Michael Jackson", "pop")
+gods_plan = Song.new("God's Plan", "Drake", "rap")
+
 
 
 

@@ -16,7 +16,9 @@ thriller = Song.new("Thriller", "Michael Jackson", "pop")
 gods_plan = Song.new("God's Plan", "Drake", "rap")
 
 
-@@count << 
+@@count = 0 
+
+
 
   
   

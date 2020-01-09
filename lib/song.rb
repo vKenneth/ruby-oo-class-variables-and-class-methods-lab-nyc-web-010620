@@ -18,6 +18,7 @@ gods_plan = Song.new("God's Plan", "Drake", "rap")
 
 def initialize(count)
   @@count << 0 
+  @@count += 1 
   
 
 
